@@ -29,14 +29,14 @@ Most of part uses PHP and for the UI it has its own custom CSS as well Bootstrap
 ## Usage/Examples
 
 ```bash
-git clone https://github.com/softwarica-github/course-work-1---web-development-prashantstha17
+git clone https://github.com/prashantstha17/FlowCTF
 ```
 Move this repo to htdocs
 and start xampp
 
 And enter this link to your browser
 ```web
-http://localhost/course-work-1---web-development-prashantstha17/page/index.php
+http://localhost/FlowCTF/page/index.php
 ```
 
 ## Screenshots
